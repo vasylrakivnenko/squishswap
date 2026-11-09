@@ -1,0 +1,8 @@
+{
+  "name": "SquishSwap · La Entrada Students",
+  "description": "Unofficial, student-made squishy trading app for kids at La Entrada School with Gemini AI squish inspection and school dog security gate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
